@@ -1,0 +1,5 @@
+* react-router
+
+> reference : https://github.com/rackt/react-router
+> 하위 라우터에 있는 녀석들을 this.props.children으로 불러오게 된다.
+> 라우터 설정을 보면 프로젝트의 구조를 대략적으로 파악 가능하다.
